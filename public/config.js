@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'HOME PAGE',
-      url: 'https://jk.zcool.org.cn/'
+      url: 'https://zcjd.arcitcgn.cn/'
     },
     {
       text: '智酷云官网',
